@@ -1,10 +1,11 @@
 {
-  "name": "feedback-tailwind-full-app",
+  "name": "feedback-collector",
   "version": "1.0.0",
   "private": true,
+  "homepage": ".",
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+    "start": "react-scripts --openssl-legacy-provider start",
+    "build": "react-scripts --openssl-legacy-provider build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
