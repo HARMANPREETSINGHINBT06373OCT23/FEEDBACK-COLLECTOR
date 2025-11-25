@@ -59,7 +59,7 @@ One-tap theme switch (Sun/Moon icon)
 Uses Tailwind’s built-in dark mode
 
 Project Structure
-![App Screenshot](./screenshot360.png)
+![App Screenshot](./Screenshot (360).png)
 
 
 
